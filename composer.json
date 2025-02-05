@@ -47,8 +47,8 @@
         "sebastian/global-state": "^5.0.7",
         "sebastian/object-enumerator": "^4.0.4",
         "sebastian/resource-operations": "^3.0.4",
-        "sebastian/type": "^3.2.1",
-        "sebastian/version": "^3.0.2"
+        "sebastian/type": "^4.0.0",
+        "sebastian/version": "^4.0.1"
     },
     "config": {
         "platform": {
